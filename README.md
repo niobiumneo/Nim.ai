@@ -7,3 +7,7 @@ Nimma uses the Q-Learning algorithm to create reward system for the reinforcemen
 
 With these rules in mind, Nimma goes through a training period of 10,000 games where it keeps playing the game with itself and rewards and punishes itself, given a situation 
 
+Watch the demo here!
+
+[![Nim.ai](http://img.youtube.com/vi/GM1IGPXVKPk/0.jpg)](http:/https://youtu.be/GM1IGPXVKPk "Nim.ai Demo")
+
