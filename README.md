@@ -9,5 +9,5 @@ With these rules in mind, Nimma goes through a training period of 10,000 games w
 
 Watch the demo here!
 
-[!align=centre[Nim.ai](http://img.youtube.com/vi/GM1IGPXVKPk/0.jpg)](http:/https://youtu.be/GM1IGPXVKPk "Nim.ai Demo")
+[![Nim.ai](http://img.youtube.com/vi/GM1IGPXVKPk/0.jpg)](http:/https://youtu.be/GM1IGPXVKPk "Nim.ai Demo")
 
